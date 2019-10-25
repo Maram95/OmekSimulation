@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<document>
+<survey name="Arbaro Demo" platform="data/platforms.xml#quadcopter" scanner="data/scanners_als.xml#riegl_vux-1uav" scene="data/scenes/demo/SimpleScene.xml#arbaro_demo">
+
+<leg>
+<platformSettings  x="19.458" y="0.00" z="60.000" onGround="false"/>
+<scannerSettings active="true" pulseFreq_hz="10000" scanAngle_deg="29.999999999999996" scanFreq_hz="120" headRotatePerSec_deg="0" headRotateStart_deg="0" headRotateStop_deg="0"/>
+</leg>
+<leg>
+<platformSettings x="-19.458" y="0.00" z="60.000" onGround="false"/>
+<scannerSettings ctive="true" pulseFreq_hz="10000" scanAngle_deg="29.999999999999996" scanFreq_hz="120" headRotatePerSec_deg="0" headRotateStart_deg="0" headRotateStop_deg="0"/>
+
+</leg>
+</survey>
+</document>

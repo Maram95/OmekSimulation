@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document> 
+<survey name="TLS Arbaro" platform="data/platforms.xml#quadcopter" scanner="data/scanners_als.xml#riegl_vux-1uav" scene="data/scenes/demo/arbaro_demo.xml#arbaro_demo">
+<leg>
+<platformSettings onGround="false" x="17.458" y="0.300" z="60.000"/>
+<scannerSettings active="true" headRotatePerSec_deg="0.00" headRotateStart_deg="0.00" headRotateStop_deg="0.00" pulseFreq_hz="100000" scanAngle_deg="50.0" scanFreq_hz="100"/>
+</leg>
+<leg>
+<platformSettings onGround="false" x="17.458" y="5.300" z="60.000"/>
+<scannerSettings active="true" headRotatePerSec_deg="0.00" headRotateStart_deg="0.00" headRotateStop_deg="0.00" pulseFreq_hz="100000" scanAngle_deg="50.0" scanFreq_hz="100"/>
+</leg>
+</survey>
+</document>
