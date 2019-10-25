@@ -13,7 +13,7 @@ This project intends to provide a research platform for PointCloud Lidar simulat
 
 
 #The Project website :
- 	*	WWW.osimulatorcs.wixsite.com/osimulator *
+ 		WWW.osimulatorcs.wixsite.com/osimulator 
 
 
 *It based on HELIOS opensource.
