@@ -9,7 +9,7 @@ This project intends to provide a research platform for PointCloud Lidar simulat
  parameters (i.e., resolution, range and accuracy), one can check the ability of suggested
  algorithms to cope errors, low-resolution.
 
-
+![alt text](https://github.com/Maram95/OmekSimulation/blob/master/helios/main.png)
 
 
 
