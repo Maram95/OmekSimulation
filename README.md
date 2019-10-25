@@ -8,3 +8,9 @@ This project intends to provide a research platform for PointCloud Lidar simulat
  Using the simulator pointclouds with the same scenario (platform, world, path) with various
  parameters (i.e., resolution, range and accuracy), one can check the ability of suggested
  algorithms to cope errors, low-resolution.
+
+
+
+
+
+*It based on HELIOS opensource.
